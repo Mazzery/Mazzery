@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, my name is Arya, nice to meet you!
 - 🔭 I’m currently working on a website project design for a company
-- 🌱 I’m currently learning Angular and Nuxt.js
+- 🌱 I’m currently learning Angular and Django
 - 📫 How to reach me: wigunaarya483@gmail.com
 - ⚡ Will always try to find an easy way to do it
 
