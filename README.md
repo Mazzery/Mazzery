@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, my name is Arya, nice to meet you!
-- 🔭 I’m currently working on a website project design for a company
-- 🌱 I’m currently interested in improving productivity and efficiency in developing a project
+- 🔭 I’m currently working on myself
+- 🌱 Smart things facinates me and New things inspires me
 - 📫 How to reach me: wigunaarya483@gmail.com
-- ⚡ Will always try to find an easy way to do it
+- ⚡ Can't say love without knowing what is it
 
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=2&line1=LARAVEL%2CLARAVEL%2Cfb503b%3BJAVASCRIPT%2CJAVASCRIPT%2CF0DB4F%3BPHP%2CPHP%2C8993be%3BHTML5%2CHTML5%2Ce34c26%3B&line2=NPM%2CNPM%2CFFFFFF%3BGIT%2CGIT%2CF1502F%3BMYSQL%2CMYSQL%2CF29111%3B)
 
